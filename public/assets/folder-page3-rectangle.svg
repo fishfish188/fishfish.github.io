@@ -1,0 +1,10 @@
+<svg width="1280" height="355" viewBox="0 0 1280 355" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="folder-page3- rectangle">
+<mask id="mask0_2031_89" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1280" height="355">
+<rect id="Rectangle 65" width="1280" height="355" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2031_89)">
+<path id="Rectangle 61" d="M398.174 0.5H180.188C171.106 0.500174 162.838 5.73326 158.95 13.9404L148.204 36.625C142.166 49.3725 129.323 57.5 115.218 57.5H-10.5V369.5H1286.5V57.5H466.99C454.385 57.4999 442.672 50.9957 436.008 40.2959L418.121 11.5762C413.831 4.68747 406.289 0.500081 398.174 0.5Z" fill="#FDE7BF" stroke="#284051"/>
+</g>
+</g>
+</svg>
